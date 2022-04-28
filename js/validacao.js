@@ -63,6 +63,9 @@ const mensagemDeErro = {
         valueMissing: "O campo de estado não pode estar vazio.",
         patternMismatch: "O estado digitado não é válido."
     },
+    preco: {
+        valueMissing: "O campo de preço não pode estar vazio"
+    }
     
 }
 
